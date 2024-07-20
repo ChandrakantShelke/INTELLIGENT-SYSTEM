@@ -106,8 +106,11 @@ Prof. S. S. Jaiswal Mam (From Govt.Polytechnic Aurangabad, Maharashtra, India)
 • Also take the help of some of the youtube videos. 
 
 ## Output Screen :
+### HomePage
 <img width="676" alt="Screenshot 2024-07-21 004025" src="https://github.com/user-attachments/assets/0ecb0bb6-02b9-4696-8fad-9aabf495ca19">
 
+### Admin Panel
+https://github.com/ChandrakantShelke/INTELLIGENT-SYSTEM/issues/1#issue-2421022184
 
 
 ## Report of My Mini Project :- 
