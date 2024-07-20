@@ -106,7 +106,7 @@ Prof. S. S. Jaiswal Mam (From Govt.Polytechnic Aurangabad, Maharashtra, India)
 • Also take the help of some of the youtube videos. 
 
 ## Output Screen :
-![Annotation 2021-06-27 124259]()
+<img width="676" alt="Screenshot 2024-07-21 004025" src="https://github.com/user-attachments/assets/0ecb0bb6-02b9-4696-8fad-9aabf495ca19">
 
 
 
