@@ -1,6 +1,6 @@
 # INTELLIGENT-SYSTEM FOR ENHANCING E-LEARNING 
 
-<img width="676" alt="Screenshot 2024-07-21 004025" src="https://github.com/user-attachments/assets/0ecb0bb6-02b9-4696-8fad-9aabf495ca19">
+<img width="711" alt="Screenshot 2024-07-21 004025" src="https://github.com/user-attachments/assets/65c6bfdb-7ca2-4069-b322-d7f5d3e2ebcb">
 
 An online system which gives students multiple functions to enhance 
 and improve their learning ability, help them in to solve their study related 
