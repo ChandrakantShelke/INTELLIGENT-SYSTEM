@@ -109,18 +109,18 @@ Prof. S. S. Jaiswal Mam (From Govt.Polytechnic Aurangabad, Maharashtra, India)
 • Also take the help of some of the youtube videos. 
 
 ## Output Screen :
-### HomePage
-<img width="676" alt="Screenshot 2024-07-21 004025" src="https://github.com/user-attachments/assets/0ecb0bb6-02b9-4696-8fad-9aabf495ca19">
 
 ### Admin Panel
 <img width="581" alt="Screenshot 2024-07-21 004113" src="https://github.com/user-attachments/assets/d696aeca-a731-4b26-91f3-a8463da8e25d">
 
+### Attendance Section 
+<img width="806" alt="Screenshot 2024-07-21 004924" src="https://github.com/user-attachments/assets/8551d5be-34a1-4828-8ac3-2a8fb761b4a4">
+
 
 ## Report of My Mini Project :- 
-[Python Mini Project by 196028 Chandrakant Shelke CO.pdf]()
 
 ## Actual working of My Mp3 Music Player :-
-Project Video (1).mp4
+
 
 ## Available only for you :
 
