@@ -117,9 +117,11 @@ Prof. S. S. Jaiswal Mam (From Govt.Polytechnic Aurangabad, Maharashtra, India)
 <img width="806" alt="Screenshot 2024-07-21 004924" src="https://github.com/user-attachments/assets/8551d5be-34a1-4828-8ac3-2a8fb761b4a4">
 
 
-## Report of My Mini Project :- 
+## Report of System :- 
+[Intelligent System Report.pdf](https://github.com/user-attachments/files/16322111/Final.Year.Project.Report.1.pdf)
 
-## Actual working of My Mp3 Music Player :-
+
+## Actual working of System :-
 
 
 ## Available only for you :
