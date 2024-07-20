@@ -114,7 +114,7 @@ Prof. S. S. Jaiswal Mam (From Govt.Polytechnic Aurangabad, Maharashtra, India)
 <img width="581" alt="Screenshot 2024-07-21 004113" src="https://github.com/user-attachments/assets/d696aeca-a731-4b26-91f3-a8463da8e25d">
 
 ### Attendance Section 
-<img width="456" alt="Screenshot 2024-07-21 004924" src="https://github.com/user-attachments/assets/37805fd6-8a2a-4b89-aa60-8e8fe7c125cd">
+<img width="658" alt="Screenshot 2024-07-21 004924" src="https://github.com/user-attachments/assets/cc7e56f3-aa06-486f-81ff-50d2e60957ec">
 
 ## Report of System :- 
 [Intelligent System Report.pdf](https://github.com/user-attachments/files/16322111/Final.Year.Project.Report.1.pdf)
