@@ -114,7 +114,7 @@ Prof. S. S. Jaiswal Mam (From Govt.Polytechnic Aurangabad, Maharashtra, India)
 [Python Mini Project by 196028 Chandrakant Shelke CO.pdf]()
 
 ## Actual working of My Mp3 Music Player :-
-https://github.com/ChandrakantShelke/INTELLIGENT-SYSTEM/blob/418c4ba9eb6e98070f0783de9cb7fdd29d8f0e23/Project%20Video%20(1).mp4
+Project Video (1).mp4
 
 ## Available only for you :
 
