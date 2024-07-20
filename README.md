@@ -110,7 +110,7 @@ Prof. S. S. Jaiswal Mam (From Govt.Polytechnic Aurangabad, Maharashtra, India)
 <img width="676" alt="Screenshot 2024-07-21 004025" src="https://github.com/user-attachments/assets/0ecb0bb6-02b9-4696-8fad-9aabf495ca19">
 
 ### Admin Panel
-https://github.com/ChandrakantShelke/INTELLIGENT-SYSTEM/issues/1#issue-2421022184
+<img width="581" alt="Screenshot 2024-07-21 004113" src="https://github.com/user-attachments/assets/d696aeca-a731-4b26-91f3-a8463da8e25d">
 
 
 ## Report of My Mini Project :- 
