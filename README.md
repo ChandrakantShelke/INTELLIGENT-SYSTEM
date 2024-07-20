@@ -122,6 +122,7 @@ Prof. S. S. Jaiswal Mam (From Govt.Polytechnic Aurangabad, Maharashtra, India)
 
 ## Actual working of System :-
 
+https://github.com/user-attachments/assets/c9b19963-1d19-4b6a-a057-8056addf29cb
 
 ## Available only for you :
 
